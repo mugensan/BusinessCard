@@ -1,4 +1,4 @@
-# flutterappmessingaround
+# Business Card made with Flutter - Enjoy this tuto
 
 A new Flutter application.
 
